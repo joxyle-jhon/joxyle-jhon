@@ -1,3 +1,6 @@
+
+<img src="[https://example.com/path/to/external/image.svg](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1701168989~exp=1701169589~hmac=e0c8bf4978529a1b9660a27cefc2c84a3a5edeb0236a37da25269a0fe1fbc1cd)" alt="External SVG" width="200" height="200">
+
 <h1 align="center">Hi 👋, I'm Jhon Lloyd Omblero</h1>
 <h3 align="center">I am a sophomore CS students of University of Science and Technology of Southern Philippines</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joxyle-jhon&label=Profile%20views&color=0e75b6&style=flat" alt="joxyle-jhon" /> </p>
@@ -45,7 +48,7 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joxyle-jhon&theme=tokyonight" alt="joxyle-jhon" /></p>
 
-![External SVG](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1701168989~exp=1701169589~hmac=e0c8bf4978529a1b9660a27cefc2c84a3a5edeb0236a37da25269a0fe1fbc1cd)
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
