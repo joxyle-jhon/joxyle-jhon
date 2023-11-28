@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1701168989~exp=1701169589~hmac=e0c8bf4978529a1b9660a27cefc2c84a3a5edeb0236a37da25269a0fe1fbc1cd" alt="External SVG" width="200" height="200">
+<img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1701168989~exp=1701169589~hmac=e0c8bf4978529a1b9660a27cefc2c84a3a5edeb0236a37da25269a0fe1fbc1cd" alt="External SVG"  height="200" align="center">
 
 
 <h1 align="center">Hi 👋, I'm Jhon Lloyd Omblero</h1>
