@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **JLAcademy**
 - 🌱 I’m currently learning **MySQL and ReactJS**
 
-- 📫 How to reach me **omblero.jhonlloyd.04@gmail.com**
+- 📫 **omblero.jhonlloyd.04@gmail.com**
 - ⚡ Fun fact **I like photography and digital arts**
 
 <div> <a href="https://twitter.com/joxylejhon" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
