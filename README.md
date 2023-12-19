@@ -47,8 +47,4 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joxyle-jhon&theme=tokyonight" alt="joxyle-jhon" /></p>
 
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Keep learning new things!</h3>
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joxyle-jhon&theme=tokyo-night"/>
