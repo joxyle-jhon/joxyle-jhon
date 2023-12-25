@@ -3,7 +3,7 @@
 <p/>
 
 
-<h1 align="center">Hi 👋, I'm Jhon Lloyd Omblero</h1>
+<h1 align="center">Hi 👋, I'm Jhon Lloyd F. Omblero</h1>
 <h3 align="center">I am a sophomore CS student at the University of Science and Technology of Southern Philippines - CDO and an aspiring Software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joxyle-jhon&label=Profile%20views&color=0e75b6&style=flat" alt="joxyle-jhon" /> </p>
 
