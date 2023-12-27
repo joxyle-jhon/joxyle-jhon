@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joxyle-jhon&label=Profile%20views&color=0e75b6&style=flat" alt="joxyle-jhon" /> </p>
 
 
-- 🔭 I’m currently working on **Personal Portfolio**
-- 👯 I’m looking to collaborate on **JLAcademy**
-- 🌱 I’m currently learning **MySQL and ReactJS**
+- 🔭 I’m currently working on **Lexus**
+- 👯 Yes I do dance!
+- 🌱 Currently learning **MySQL and ReactJS**
 
 - 📫 **omblero.jhonlloyd.04@gmail.com**
 - ⚡ Fun fact **I like photography and digital arts**
