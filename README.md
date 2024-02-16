@@ -9,11 +9,10 @@
 
 
 - 🔭 I’m currently working on **Lexus**
-- 👯 Yes I do dance!
-- 🌱 Currently learning **MySQL and ReactJS**
+- 🌱 Currently learning **Java and C++ for Algorithm**
 
 - 📫 **omblero.jhonlloyd.04@gmail.com**
-- ⚡ Fun fact **I like photography and digital arts**
+- ⚡ Fun fact **I like photography and graphic designing**
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
