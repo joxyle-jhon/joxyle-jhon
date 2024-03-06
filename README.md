@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" alt="External SVG"  height="200">
+<img src="cover.svg" alt="External SVG"  height="200">
 <p/>
 
 
