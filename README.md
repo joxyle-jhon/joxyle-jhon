@@ -1,5 +1,5 @@
 <p align="center">
-<img src="cover.svg" alt="External SVG"  height="200">
+<img src="cover.svg" alt="External SVG"  height="700">
 <p/>
 
 
