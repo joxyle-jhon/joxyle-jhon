@@ -23,7 +23,7 @@
       <h3># Contribution</h3>
       <details open>
         <summary>Full year calendar</summary>
-        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="">
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg?username=joxyle-jhon" alt="">
       </details>
       <img width="400" height="1" alt="">
     </td>
@@ -31,23 +31,24 @@
       <h3># Most Use Languages</h3>
       <details open>
         <summary>Indepth analysis (clone and analyze repositories)</summary>
-        <img src="https://github.com/joxyle-jhon/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt="">
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg?username=joxyle-jhon" alt="">
       </details>
       <details open>
         <summary>Recently used (analyze recent activity events)</summary>
-        <img src="https://github.com/joxyle-jhon/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt="">
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg?username=joxyle-jhon" alt="">
       </details>
       <details>
         <summary>Default algorithm</summary>
-        <img src="https://github.com/joxyle-jhon/metrics/blob/examples/metrics.plugin.languages.svg" alt="">
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg?username=joxyle-jhon" alt="">
       </details>
       <details>
         <summary>Default algorithm (with details)</summary>
-        <img src="https://github.com/joxyle-jhon/metrics/blob/examples/metrics.plugin.languages.details.svg" alt="">
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg?username=joxyle-jhon" alt="">
       </details>
       <img width="400" height="1" alt="">
     </td>
   </tr>
 </table>
+
 
 
