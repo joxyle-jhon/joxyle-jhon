@@ -23,7 +23,7 @@
       <h3># Contribution</h3>
       <details open>
         <summary>Full year calendar</summary>
-        <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/plugins/metrics.plugin.isocalendar.fullyear.svg?username=joxyle-jhon" alt="">
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg?username=joxyle-jhon" alt="">
       </details>
       <img width="400" height="1" alt="">
     </td>
@@ -31,16 +31,17 @@
       <h3># Most Use Languages</h3>
       <details open>
         <summary>Indepth analysis (clone and analyze repositories)</summary>
-        <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/plugins/metrics.plugin.languages.indepth.svg?username=joxyle-jhon" alt="">
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg?username=joxyle-jhon" alt="">
       </details>
       <details open>
         <summary>Recently used (analyze recent activity events)</summary>
-        <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/plugins/metrics.plugin.languages.recent.svg?username=joxyle-jhon" alt="">
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg?username=joxyle-jhon" alt="">
       </details>
       <img width="400" height="1" alt="">
     </td>
   </tr>
 </table>
+
 
 
 
