@@ -16,7 +16,8 @@
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,py,react,c,cpp,git,figma,ai,ps,notion,vscode)](https://skillicons.dev)
-
+<table>
+ <th>
 # Contribution
  <tr>
     <td colspan="2" align="center">
@@ -25,6 +26,8 @@
       <img width="900" height="1" alt="">
     </td>
   </tr>
+ </th>
+ <td>
 # Most Use Languages
   <tr>
     <td colspan="2" align="center">
@@ -35,5 +38,6 @@
       <img width="900" height="1" alt="">
     </td>
   </tr>
-
+ </td>
+</table>
 
