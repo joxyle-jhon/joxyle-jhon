@@ -1,17 +1,44 @@
-name: Metrics
+name: Generate GitHub Metrics
+
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily
-  workflow_dispatch: # Allows manual runs
+    - cron: "0 0 * * *" # Automatically runs daily
+  workflow_dispatch: # Allows manual triggering
+
 jobs:
-  metrics:
-    runs-on: ubuntu-latest
+  generate-metrics:
+    runs-on: windows-latest # Use Windows runner
     steps:
-      - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      # Checkout your repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Run lowlighter/metrics action
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
+          # Use a GitHub-provided token
           token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Replace with your GitHub username
           user: joxyle-jhon
+          
+          # Select a metrics template
           template: classic
-          base: header, repositories
+          
+          # Enable plugins
+          plugins: isocalendar, languages
+          
+          # Optional: Set your time zone
           config_timezone: Asia/Manila
+
+      # Save the generated metrics locally and push to repository
+      - name: Save and commit metrics
+        run: |
+          mkdir assets\metrics
+          move metrics.svg assets\metrics\generated-metrics.svg
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add assets/metrics/generated-metrics.svg
+          git commit -m "Update generated metrics"
+          git push
