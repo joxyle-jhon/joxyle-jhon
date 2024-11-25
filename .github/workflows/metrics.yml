@@ -1,0 +1,17 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+  workflow_dispatch: # Allows manual runs
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: joxyle-jhon
+          template: classic
+          base: header, repositories
+          config_timezone: Asia/Manila
