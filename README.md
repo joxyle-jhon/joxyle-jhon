@@ -17,30 +17,7 @@
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,py,react,cpp,git,figma,ai,ps,notion,vscode)](https://skillicons.dev)
 
-<table>
-  <tr>
-    <td>
-      <h3># Contribution</h3>
-      <details open>
-        <summary>Full year calendar</summary>
-        <img src="https://github.com/joxyle-jhon/path-to-generated-metrics.svg" alt="">
-      </details>
-      <img width="400" height="1" alt="">
-    </td>
-    <td>
-      <h3># Most Use Languages</h3>
-      <details open>
-        <summary>Indepth analysis (clone and analyze repositories)</summary>
-        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg?username=joxyle-jhon" alt="">
-      </details>
-      <details open>
-        <summary>Recently used (analyze recent activity events)</summary>
-        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg?username=joxyle-jhon" alt="">
-      </details>
-      <img width="400" height="1" alt="">
-    </td>
-  </tr>
-</table>
+
 
 
 
