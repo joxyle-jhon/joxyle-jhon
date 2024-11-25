@@ -2,43 +2,34 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Automatically runs daily
+    - cron: "0 0 * * *" # Automatically runs daily at midnight UTC
   workflow_dispatch: # Allows manual triggering
 
 jobs:
   generate-metrics:
-    runs-on: windows-latest # Use Windows runner
+    runs-on: windows-latest # Use a Windows runner
     steps:
-      # Checkout your repository
+      # Step 1: Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Run lowlighter/metrics action
+      # Step 2: Run the lowlighter/metrics GitHub Action
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Use a GitHub-provided token
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # Replace with your GitHub username
-          user: joxyle-jhon
-          
-          # Select a metrics template
-          template: classic
-          
-          # Enable plugins
-          plugins: isocalendar, languages
-          
-          # Optional: Set your time zone
-          config_timezone: Asia/Manila
+          token: ${{ secrets.GITHUB_TOKEN }} # Required GitHub token
+          user: joxyle-jhon                # Your GitHub username
+          template: classic                # Template for the metrics
+          plugins: isocalendar, languages  # Enabled plugins
+          config_timezone: Asia/Manila     # Set your time zone
 
-      # Save the generated metrics locally and push to repository
-      - name: Save and commit metrics
+      # Step 3: Save and commit the generated metrics
+      - name: Save and commit generated metrics
         run: |
           mkdir assets\metrics
           move metrics.svg assets\metrics\generated-metrics.svg
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
-          git add assets/metrics/generated-metrics.svg
+          git add assets\metrics\generated-metrics.svg
           git commit -m "Update generated metrics"
           git push
