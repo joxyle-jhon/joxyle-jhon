@@ -7,7 +7,7 @@ on:
 
 jobs:
   generate-metrics:
-    runs-on: windows-latest # Use a Windows runner
+    runs-on: windows-latest # Use Windows runner
     steps:
       # Step 1: Checkout the repository
       - name: Checkout repository
@@ -17,11 +17,13 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Required GitHub token
-          user: joxyle-jhon                # Your GitHub username
-          template: classic                # Template for the metrics
-          plugins: isocalendar, languages  # Enabled plugins
-          config_timezone: Asia/Manila     # Set your time zone
+          token: ${{ secrets.GITHUB_TOKEN }}  # Required GitHub token
+          user: joxyle-jhon                    # Your GitHub username
+          template: classic                    # Template for the metrics
+          config_timezone: Asia/Manila         # Set your time zone
+          # Enable individual plugins instead of 'plugins'
+          plugin_isocalendar: true             # Enable isocalendar plugin
+          plugin_languages: true               # Enable languages plugin
 
       # Step 3: Save and commit the generated metrics
       - name: Save and commit generated metrics
