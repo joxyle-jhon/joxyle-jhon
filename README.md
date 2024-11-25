@@ -23,7 +23,7 @@
       <h3># Contribution</h3>
       <details open>
         <summary>Full year calendar</summary>
-        <img src="https://github.com/joxyle-jhon/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg?username=joxyle-jhon" alt="">
+        <img src="https://github.com/joxyle-jhon/path-to-generated-metrics.svg" alt="">
       </details>
       <img width="400" height="1" alt="">
     </td>
