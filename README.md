@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I like photography and graphic designing**
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,py,react,c,cpp,git,figma,ai,ps,notion,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,py,react,cpp,git,figma,ai,ps,notion,vscode)](https://skillicons.dev)
 
 <table>
   <tr>
