@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joxyle-jhon&label=Profile%20views&color=0e75b6&style=flat" alt="joxyle-jhon" /> </p>
 
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **AI Projects**
 - 🌱 Currently learning **Machine Learning Models**
 
 - 📫 **omblero.jhonlloyd.04@gmail.com**
