@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on **AI Projects**
-- 🌱 Currently learning **Machine Learning Models**
+- 🌱 Currently learning **Agentic AI**
 
 - 📫 **omblero.jhonlloyd.04@gmail.com**
 - ⚡ Fun fact **I like photography and graphic designing**
