@@ -45,7 +45,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=joxyle-jhon&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=joxyle-jhon&theme=dark&hide_border=true" />
 </div>
 
 ---
