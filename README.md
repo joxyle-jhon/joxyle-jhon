@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ice-bear.jpg" alt="Header" width="50%">
+<img src="icebear-banner.png" alt="Header" width="50%">
 
 # Hi, I'm Jhon Lloyd F. Omblero 👋
 ### Full-Stack Developer · Software Engineer
