@@ -45,13 +45,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joxyle-jhon&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joxyle-jhon&layout=compact&theme=default&hide_border=true" />
-
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joxyle-jhon&theme=default&hide_border=true" />
 </div>
 
