@@ -25,15 +25,16 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,py,html,css" />
+<img src="https://skillicons.dev/icons?i=ts,js,php,cpp,py,html,css" />
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind" />
 
 **Backend & Data**
 
 <img src="https://skillicons.dev/icons?i=trpc,mysql,supabase" />
+<img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" />
 
 **Tools & Platforms**
 
