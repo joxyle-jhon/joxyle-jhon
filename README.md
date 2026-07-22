@@ -3,13 +3,18 @@
 <img src="icebear-banner.png" alt="Header Banner" width="100%">
 
 # Jhon Lloyd F. Omblero
-**Full-Stack Developer · Software Engineer**
+
+<a href="https://jlomblero.dev">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=430&lines=Full-Stack+Developer;Software+Engineer;AI+%26+Agentic+AI+Explorer;UI%2FUX+%26+Design+Enthusiast" alt="Typing Animation" />
+</a>
+
+<br>
 
 <a href="https://jlomblero.dev" target="_blank">Portfolio</a> • 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">LinkedIn</a> • 
 <a href="mailto:omblero.jhonlloyd.04@gmail.com">Email</a>
 
-<br>
+<br><br>
 <img src="https://komarev.com/ghpvc/?username=joxyle-jhon&label=Profile%20Views&color=000000&style=flat" alt="Profile views" />
 
 </div>
@@ -18,11 +23,7 @@
 
 ### About Me
 
-I am a Full-Stack Developer with a strong focus on building scalable web applications and integrating modern technologies. I specialize in end-to-end development, from structuring databases to designing clean user interfaces. 
-
-- **Focus:** Currently developing AI-powered projects and expanding my expertise in Agentic AI.
-- **Experience:** Proficient in modern web ecosystems, specifically the **T3 Stack**, **Next.js**, and **Supabase**.
-- **Interests:** Beyond software engineering, I have a strong background in photography and graphic design, which informs my eye for UI/UX.
+I am a Full-Stack Developer focused on building scalable web applications and exploring Agentic AI. I specialize in end-to-end development using modern ecosystems like the **T3 Stack**, **Next.js**, and **Supabase**. Beyond software engineering, my background in photography and graphic design heavily informs my approach to crafting clean, intuitive user interfaces.
 
 ---
 
