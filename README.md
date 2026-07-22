@@ -1,65 +1,50 @@
 <div align="center">
 
-<img src="icebear-banner.png" alt="Header" width="100%">
+<img src="icebear-banner.png" alt="Header Banner" width="100%">
 
-# Hi, I'm Jhon Lloyd F. Omblero 👋
-### Full-Stack Developer · Software Engineer
+# Jhon Lloyd F. Omblero
+**Full-Stack Developer · Software Engineer**
 
-<img src="https://komarev.com/ghpvc/?username=joxyle-jhon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<a href="https://jlomblero.dev" target="_blank">Portfolio</a> • 
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">LinkedIn</a> • 
+<a href="mailto:omblero.jhonlloyd.04@gmail.com">Email</a>
 
-</div>
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently working on **AI-powered projects**
-- 🌱 Learning **Agentic AI**
-- 💼 Full-stack developer experienced with the **T3 Stack**, **Next.js**, and **Supabase**
-- 📸 Fun fact: I like **photography** and **graphic design**
-- 📫 Reach me at **omblero.jhonlloyd.04@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,php,cpp,py,html,css" />
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind" />
-
-**Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=trpc,mysql,supabase" />
-<img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,notion,ps" />
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=joxyle-jhon&theme=default&hide_border=true" />
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://jlomblero.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:omblero.jhonlloyd.04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=joxyle-jhon&label=Profile%20Views&color=000000&style=flat" alt="Profile views" />
 
 </div>
 
+---
+
+### About Me
+
+I am a Full-Stack Developer with a strong focus on building scalable web applications and integrating modern technologies. I specialize in end-to-end development, from structuring databases to designing clean user interfaces. 
+
+- **Focus:** Currently developing AI-powered projects and expanding my expertise in Agentic AI.
+- **Experience:** Proficient in modern web ecosystems, specifically the **T3 Stack**, **Next.js**, and **Supabase**.
+- **Interests:** Beyond software engineering, I have a strong background in photography and graphic design, which informs my eye for UI/UX.
+
+---
+
+### Technical Arsenal
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img style="vertical-align: middle;" src="https://skillicons.dev/icons?i=ts,js,php,cpp,py,html,css&theme=dark" alt="Languages" /> |
+| **Frameworks** | <img style="vertical-align: middle;" src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind&theme=dark" alt="Frameworks" /> |
+| **Backend & Data** | <img style="vertical-align: middle;" src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" alt="Backend" /> <img style="vertical-align: middle;" src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" /> <img style="vertical-align: middle;" src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" alt="Payload CMS" /> |
+| **Tools** | <img style="vertical-align: middle;" src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,notion,ps,ai&theme=dark" alt="Tools" /> |
+
+---
+
+### GitHub Activity
+
 <div align="center">
-<sub>Thanks for stopping by! ⭐ from <a href="https://github.com/joxyle-jhon">joxyle-jhon</a></sub>
+  <img src="https://streak-stats.demolab.com/?user=joxyle-jhon&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+<sub>© 2026 Jhon Lloyd F. Omblero</sub>
 </div>
