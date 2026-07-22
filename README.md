@@ -27,21 +27,25 @@ I am a Full-Stack Developer focused on building scalable web applications and ex
 
 ---
 
+<div align="center">
+
 ### Technical Arsenal
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img style="vertical-align: middle;" src="https://skillicons.dev/icons?i=ts,js,php,cpp,py,html,css&theme=dark" alt="Languages" /> |
-| **Frameworks** | <img style="vertical-align: middle;" src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind&theme=dark" alt="Frameworks" /> |
-| **Backend & Data** | <img style="vertical-align: middle;" src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" alt="Backend" /> <img style="vertical-align: middle;" src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" /> <img style="vertical-align: middle;" src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" alt="Payload CMS" /> |
-| **Tools** | <img style="vertical-align: middle;" src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,notion,ps,ai&theme=dark" alt="Tools" /> |
+| **Languages** | <img style="vertical-align: middle;" height="30" src="https://skillicons.dev/icons?i=ts,js,php,cpp,py,html,css&theme=dark" alt="Languages" /> |
+| **Frameworks** | <img style="vertical-align: middle;" height="30" src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind&theme=dark" alt="Frameworks" /> |
+| **Backend & Data** | <img style="vertical-align: middle;" height="30" src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" alt="Backend" /> <img style="vertical-align: middle;" height="30" src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" /> <img style="vertical-align: middle;" height="30" src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" alt="Payload CMS" /> |
+| **Tools** | <img style="vertical-align: middle;" height="30" src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,notion,ps,ai&theme=dark" alt="Tools" /> |
+
+</div>
 
 ---
 
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=joxyle-jhon&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=joxyle-jhon&theme=dark&hide_border=true&background=transparent" alt="GitHub Streak" />
 </div>
 
 <br>
