@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icebear-banner.png" alt="Header Banner" width="100%">
+<img src="icebear-banner1.png" alt="Header Banner" width="100%">
 
 # Jhon Lloyd F. Omblero
 
