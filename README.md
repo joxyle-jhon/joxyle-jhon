@@ -2,7 +2,7 @@
 
 <img src="icebear-banner1.png" alt="Header Banner" width="100%">
 
-# Jhon Lloyd F. Omblero
+# Jhon Lloyd Omblero (Joxyle Jhon)
 
 <a href="https://jlomblero.dev">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=430&lines=Full-Stack+Developer;Software+Engineer;AI+%26+Agentic+AI+Explorer;UI%2FUX+%26+Designer" alt="Typing Animation" />
